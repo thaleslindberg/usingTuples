@@ -1,2 +1,2 @@
 # usingTuples
-Just a sample to how to use tuples with functions
+Just a simple and easy way to how to use tuples with functions!
